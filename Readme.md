@@ -46,17 +46,17 @@ Maximum temperature per day was obtained using the Dark Sky [API](https://api.da
   * Mean Max Temperature: 83.24
   * Max Temperature Variance: 59.33
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Max%20Temperature%20vs%20Day.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Max%20Temperature%20vs%20Day.png)
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Autocorrelation%20-%20Seattle.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Autocorrelation%20-%20Seattle.png)
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Autocorrelation%20-%20Minneapolis.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Autocorrelation%20-%20Minneapolis.png)
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Autocorrelation%20-%20Denver.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Autocorrelation%20-%20Denver.png)
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Autocorrelation%20-%20Cleveland.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Autocorrelation%20-%20Cleveland.png)
 
-![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/Autocorrelation%20-%20Washington.png)
+![alt text](https://raw.githubusercontent.com/silkaitis/MaxTemp/master/images/Autocorrelation%20-%20Washington.png)
 
 **Interpretation**
 
