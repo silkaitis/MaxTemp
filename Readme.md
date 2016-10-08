@@ -60,7 +60,7 @@ Maximum temperature per day was obtained using the Dark Sky [API](https://api.da
 
 **Interpretation**
 
-Minneapolis had the largest change in maximum temperature over the 30 day period.  Washington has the largest maximum temperature delta in a single day with a 22.16 degree change.  Most cities have a pattern in their autocorrelation plot which is not surprising.  Max temperature changes throughout the year; the max temperature in December is less than the max temperature in June.
+Minneapolis had the largest change in maximum temperature over the 30 day period.  Washington has the largest maximum temperature delta in a single day with a 22.16 degree change.  Autocorrelation plots illustrate a lag 1 correlation which is reasonable since weather one day is dependent upon the previous day.  
 
 **Code**
 
